@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+img{
+    width:100%;
+}
+.diet-section{
+    display: flex;
+    margin: 0 7%;
+}
+.half-width{
+    width: 50%;
+    margin-top: 100px;
+}
+.half-width h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.644);
+    margin: 0 0 15px 0;
+}
+.half-width span{
+    color: #fc6a3a;
+}
+.pragraph {
+    font-size: 19px;
+    font-weight: 500;
+    color: #000;
+    max-width: 490px;
+    margin: 22px 0 60px 0;
+}
+.margin{
+    margin-top: 150px;
+}
+.button {
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    padding: 15px 35px;
+    text-decoration: none;
+    background: linear-gradient(76deg, rgb(185 72 103), rgb(137, 74, 59));
+    border-radius: 31px;
+}
